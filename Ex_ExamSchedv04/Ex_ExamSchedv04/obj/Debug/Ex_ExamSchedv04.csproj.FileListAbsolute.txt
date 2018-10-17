@@ -1,0 +1,16 @@
+c:\users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\bin\Debug\Ex_ExamSchedv04.exe.config
+c:\users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\bin\Debug\Ex_ExamSchedv04.exe
+c:\users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\bin\Debug\Ex_ExamSchedv04.pdb
+c:\users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\obj\Debug\Ex_ExamSchedv04.csprojAssemblyReference.cache
+c:\users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\obj\Debug\Ex_ExamSchedv04.Properties.Resources.resources
+c:\users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\obj\Debug\Ex_ExamSchedv04.csproj.GenerateResource.cache
+c:\users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\obj\Debug\Ex_ExamSchedv04.csproj.CoreCompileInputs.cache
+c:\users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\obj\Debug\Ex_ExamSchedv04.exe
+c:\users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\obj\Debug\Ex_ExamSchedv04.pdb
+C:\Users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\bin\Debug\ex_Class.mdf
+C:\Users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\bin\Debug\ex_Class_log.ldf
+C:\Users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\obj\Debug\Ex_ExamSchedv04.ExamSched.resources
+C:\Users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\obj\Debug\Ex_ExamSchedv04.frmLogin.resources
+C:\Users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\michael\source\repos\Ex_ExamSchedv04\Ex_ExamSchedv04\obj\Debug\Ex_ExamSchedv04.csproj.CopyComplete
